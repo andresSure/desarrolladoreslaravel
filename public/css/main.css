@@ -1,0 +1,41 @@
+html{
+    height: 100%;
+}
+
+
+.texto{
+    font-weight: bold;   
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;    
+}
+
+.logo{
+    width: 2rem;
+}
+
+.bd-placeholder-img 
+{
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 5rem;
+    color: #888;
+}
+
+@media (min-width: 768px) 
+{
+    .bd-placeholder-img-lg 
+    {
+    font-size: 3.5rem;
+    }
+}
